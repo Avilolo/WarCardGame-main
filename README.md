@@ -1,6 +1,7 @@
 # Card war game
 
 A swift app for a card game.
+
 Right and left position of player according to gps location (left = west of equator right = east of equator)
 
 
